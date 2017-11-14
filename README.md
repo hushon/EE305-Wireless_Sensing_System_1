@@ -1,1 +1,2 @@
-# EE305-Wireless_Sensing_System_1
+# EE305 Wireless Sensing System 1
+Arduino project
